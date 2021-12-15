@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scripts version="1">
+  <UtilityScripts>
+    <Utility name="valentineRpReward2" startTime="9/08/2010@06:000" endTime="9/18/2094@00:000">
+      <Contexts>
+        <Context>GLOBAL</Context>
+      </Contexts>
+      <scriptInfo scr="valentineRpReward2"/>
+      <LaunchParams>
+        <LaunchParam name="TestParam" int="12345" />
+      </LaunchParams>
+    </Utility>
+  </UtilityScripts>
+</Scripts>
